@@ -19,6 +19,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+## Team Composition Guidance
+- Core delivery team should include: Product Manager, Project Manager, and Developers.
+- Include a Designer (UX/UI) during discovery when user journeys, workflows, or UI changes are expected.
+- Include a Quality Assurance Lead early to define initial quality approach and acceptance test strategy.
+- Include a Subject Matter Expert (SME) when domain complexity, policy constraints, or compliance requirements apply.
+- Confirm role coverage in kickoff so responsibilities and escalation paths are explicit from day one.
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
@@ -32,6 +39,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Team composition confirmed (PM, PdM, Developers, plus Designer/QA Lead/SME as needed)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

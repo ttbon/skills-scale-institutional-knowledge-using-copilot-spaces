@@ -6,6 +6,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
+- Design/UX checkpoint (weekly or per sprint) — review in-flight UX changes and implementation fit
+- QA triage/checkpoint (at least weekly) — review defect trends, quality gates, and release-readiness risks
 - Demo/Review at the end of each sprint or milestone
 
 ## Workflows
@@ -38,3 +40,4 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Recurring design and QA checkpoints scheduled and attended
