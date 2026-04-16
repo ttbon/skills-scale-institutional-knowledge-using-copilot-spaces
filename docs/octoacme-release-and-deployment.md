@@ -15,10 +15,17 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented
 - Smoke tests prepared
 
+## QA Lead Pre-release Validation
+- Confirm planned test scope (functional, integration, regression, and smoke) is complete
+- Validate all critical and high-severity defects are resolved or explicitly risk-accepted
+- Verify acceptance criteria traceability to executed test evidence
+- Confirm go/no-go recommendation is communicated to PM/PdM before production deploy
+
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
+- [ ] QA Lead confirms pre-release validation and go/no-go recommendation
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support

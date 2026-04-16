@@ -16,6 +16,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+## Cross-Functional Inputs (When Critical)
+- Designer (UX/UI): Required before estimating or committing UI-heavy backlog items; align on prototypes, interaction flows, and accessibility criteria.
+- Quality Assurance Lead: Required before finalizing Definition of Done and sprint scope; align on test strategy, quality gates, and environment needs.
+- Subject Matter Expert (SME): Required before locking requirements for domain-sensitive features; validate business rules, terminology, and compliance constraints.
+
 ## Backlog Item Template
 - Title:
 - Description:
@@ -41,3 +46,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Designer input captured for UI/UX-impacting backlog items
+- [ ] SME review completed for domain or compliance-sensitive requirements
